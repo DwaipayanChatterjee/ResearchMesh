@@ -1,4 +1,4 @@
-## 📰 Multi-Agent AI Researcher
+## 📰 ResearchMesh - Multi-Agent AI Researcher
 
 ### 🎓What is this?
 A multi-agent AI research assistant that streamlines Hacker News analysis by coordinating multiple AI agents. The application helps users discover trending stories and influential contributors, generate concise summaries, and extract insights for reports, blogs, and social media content.
@@ -32,8 +32,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/multi_agent_apps/multi_agent_researcher
+git clone https://github.com/DwaipayanChatterjee/ResearchMesh.git
 ```
 2. Install the required dependencies:
 
@@ -48,4 +47,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run research_agent.py
 ```
-

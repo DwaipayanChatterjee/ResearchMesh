@@ -2,4 +2,4 @@ streamlit
 agno>=2.2.10
 openai
 ddgs
-newspaper4k lxml_html_clean
+newspaper4k
